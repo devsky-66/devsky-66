@@ -19,3 +19,10 @@ Frontend developer (Vue 2) transitioning into **AI Agent / LLM application devel
 ## Background
 
 Production frontend experience with Vue 2 — component architecture, complex interactive UI, and streaming interfaces, now applied to building AI agent products.
+
+## Roadmap — portfolio in progress
+
+- **vue-to-agent** — 12-week transition log & code (in progress)
+- **Project 1 · RAG knowledge-base assistant** (Vue3 + FastAPI) — planned, Week 6
+- **Project 2 · Dify workflow app** — planned, Week 8
+- **Project 3 · LangGraph research agent** — planned, Week 10
